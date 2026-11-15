@@ -1,2 +1,4 @@
+git remote add origin https://github.com/rubenherrrerabeltran-ui/Programa-Git.git
+cat > kotlin.txt
 Nombre: Rubén Darío Herrera Beltrán
-Correo: 356416599+rubenherrrerabeltran-ui@users.noreply.github.co
+Correo: 356416599+rubenherrrerabeltran-ui@users.noreply.github.com
